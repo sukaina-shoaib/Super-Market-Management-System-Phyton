@@ -1,0 +1,75 @@
+---------------------
+      CASH RECEIPT      
+-----------------------
+Receipt number: 1
+Product: ketchup
+Quantity: 2
+ketchup x 2 = Rs400
+Total price: Rs 400
+Profit: Rs 60
+---------------------
+
+---------------------
+      CASH RECEIPT      
+-----------------------
+Receipt number: 2
+Product: noodles
+Quantity: 2
+noodles x 2 = Rs270
+Product: coffee
+Quantity: 3
+coffee x 3 = Rs270
+Total price: Rs 390
+Profit: Rs 30
+---------------------
+
+---------------------
+      CASH RECEIPT      
+-----------------------
+Receipt number: 3
+Product: egg
+Quantity: 5
+egg x 5 = Rs240
+Product: bread
+Quantity: 3
+bread x 3 = Rs240
+Total price: Rs 540
+Profit: Rs 15
+---------------------
+
+---------------------
+      CASH RECEIPT      
+-----------------------
+Receipt number: 4
+Product: milk
+Quantity: 3
+milk x 3 = Rs270
+Total price: Rs 270
+Profit: Rs 30
+---------------------
+
+---------------------
+      CASH RECEIPT      
+-----------------------
+Receipt number: 5
+Product: OIL
+Quantity: 2
+OIL x 2 = Rs30
+Product: BISCUIT
+Quantity: 3
+BISCUIT x 3 = Rs30
+Total price: Rs 430
+Profit: Rs 15
+---------------------
+
+---------------------
+      CASH RECEIPT      
+-----------------------
+Receipt number: 6
+Product: butter
+Quantity: 2
+butter x 2 = Rs160
+Total price: Rs 160
+Profit: Rs 20
+---------------------
+
